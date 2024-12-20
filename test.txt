@@ -1,1 +1,3 @@
 This is the first note after the initial commit
+
+I want to update this file globally
